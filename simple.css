@@ -1,0 +1,48 @@
+body{
+	text-align: center;
+	font-family: "Comic Sans MS", Sans-Serif;
+	background: #dadada;
+	color: #000;
+	margin-left: 5em;
+	margin-right: 5em;
+	margin-top: 1em;
+}
+h1{
+	font-family: Helvetica, Sans-Serif;
+	text-shadow: 2px 3px grey;
+}
+p{
+	font-size: 12px;
+	
+}
+div{
+	text-align: center;
+	font-size: 1.5em;
+	margin-right: 6em;
+	margin-left: 6em;
+}
+#colournil{
+	background: #000;
+	color: #eeeeee;
+	font-size: 2em;
+	margin-right: 4.5em;
+	margin-left: 4.5em;
+}
+#colour1{
+	background: #FA8072;
+}
+#colour2{
+	background:	#20B2AA;
+}
+#colour3{
+	background: #00FF7F;
+}
+a{
+	color: black;
+}
+a:visited{
+	color: black;
+}
+a:hover{
+	color: #676767;
+}
