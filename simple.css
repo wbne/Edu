@@ -39,12 +39,27 @@ div{
 #colour2{
 	background:	#20B2AA;
 }
-
 #colour3{
 	background: #00FF7F;
 }
-
-#fancytitle{
+#colour4a{
+	background:#FFF;
+	color: #DC143C;
+}
+#colour4b{
+	background:#FFF;
+	color: #008B8B;
+}
+#colour4c{
+	background:FFF;
+	color: #32CD32;
+}
+#fancytitle1{
+	border-left-style: solid;
+	border-bottom-style: solid;
+	border-color: #DC143C;
+}
+#fancytitle2{
 	border-left-style: solid;
 	border-bottom-style: solid;
 	border-color: #008B8B;
