@@ -17,7 +17,7 @@ p{
 }
 li{
 	font-size: 20px;
-	text-align: left;
+	text-align: center;
 	margin-left: 20px;
 }
 div{
@@ -51,7 +51,7 @@ div{
 	color: #008B8B;
 }
 #colour4c{
-	background:FFF;
+	background: #FFF;
 	color: #32CD32;
 }
 #fancytitle1{
@@ -68,6 +68,12 @@ div{
 	font-size: 12px;
 	
 }
+#quellanger{
+	margin:0px;
+	
+}
+
+
 a{
 	color: black;
 }
